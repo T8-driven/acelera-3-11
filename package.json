@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/T8-driven/acelera-3-11#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   },
   "devDependencies": {
